@@ -8,5 +8,11 @@ public class Hello {
 		System.out.println("HELLO");
 
 	}
+	
+	
+	public multip(){
+		
+		
+	}
 
 }
