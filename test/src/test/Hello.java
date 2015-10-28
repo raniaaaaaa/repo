@@ -9,5 +9,11 @@ public class Hello {
 		int a;
 
 	}
+	
+	
+	public void multip(){
+		
+		
+	}
 
 }
